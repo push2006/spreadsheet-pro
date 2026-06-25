@@ -1,0 +1,6 @@
+{
+  "name": "Spreadsheet Pro",
+  "description": "A fully-featured client-side spreadsheet application with dynamic formulas, rich formatting, range selection, sorting, find and replace, sheet management, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
